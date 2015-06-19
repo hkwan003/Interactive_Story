@@ -14,7 +14,8 @@ public class Page
         return mIsFinal;
     }
 
-    public void setIsFinal(boolean isFinal) {
+    public void setIsFinal(boolean isFinal)
+    {
         mIsFinal = isFinal;
     }
 
